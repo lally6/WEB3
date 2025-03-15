@@ -1,4 +1,5 @@
 pragma solidity ^0.8.0;
+// SPDX-License-Identifier: MIT
 contract MultiStageTimeLock { 
     uint public stage1UnlockTime; 
     uint public stage2UnlockTime; 
@@ -18,4 +19,5 @@ function withdrawStage2() public {
     require(block.timestamp >= stage2UnlockTime, "Stage 2 funds are locked.");
     require(msg.sender == owner, "Only owner can withdraw.");
     // 提取第二阶段资金操作
+    }
 }
