@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getnum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Level0/Task02了解如何使用Solidity/数据类型/globle.sol": "Globle"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Level0/Task02了解如何使用Solidity/数据类型/globle.sol": {
+			"keccak256": "0x339d308e1b77b33e9dd85ea2034b7f665ce90f37e92bf8607162ca84bec48daf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://340ddd49f35be0fe2ac2b99a6bb3667c92c2caca55f61be7405ad7a5c3ed8e8d",
+				"dweb:/ipfs/QmZWWi5XTW6oWwhbDY9xC7X5ZfKXVkvktii8ausf8kCiDm"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testFor",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testWhile",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Level0/Task02了解如何使用Solidity/数据类型/variable.sol": "controlTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Level0/Task02了解如何使用Solidity/数据类型/variable.sol": {
+			"keccak256": "0xa61d62b1f9424662e042e8503f304fb68a5820312b4d5d9e72f5acff210558c8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://78db2d1a3a8cf0d34676d19d454c002170cc5b8f6a2e20c5a276fab1c99cf5d3",
+				"dweb:/ipfs/QmZHRzH226SN3uGmunNX97dHe4LiaKQkyGdvuw1E67c3Nu"
+			]
+		}
+	},
+	"version": 1
+}

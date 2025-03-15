@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Level0/Task02了解如何使用Solidity/数据类型/contract.sol": "Hello"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Level0/Task02了解如何使用Solidity/数据类型/contract.sol": {
+			"keccak256": "0x08c8d32711bacf6d566489b7e82681a131ce6f37adc9b2617de00440b0d4ccf0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5a981d01e390712cd3d23dc4135e4ad593e861c981351ddc48e1013d01c79ba8",
+				"dweb:/ipfs/QmUMi77oWfamJUTAeUYYt7bnSCf87wUt6o9HTzASgT3Np2"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getSelector",
+				"outputs": [
+					{
+						"internalType": "bytes4",
+						"name": "",
+						"type": "bytes4"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Level0/Task02了解如何使用Solidity/数据类型/function.sol": "SelectorExample"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Level0/Task02了解如何使用Solidity/数据类型/function.sol": {
+			"keccak256": "0xbc6a59bc1590a1c4be9989b186041e4c2f796ec9aaffed6da80e48db9df267ad",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8e20a5e99d195c20f6c7ca571bfa223b48f2159ef32e0e676371ddbccb2c6a99",
+				"dweb:/ipfs/QmTLQc8sZZh5RVAJF2jGSTDdGFwRDeCm6jpc1gerMZ4W7q"
+			]
+		}
+	},
+	"version": 1
+}
